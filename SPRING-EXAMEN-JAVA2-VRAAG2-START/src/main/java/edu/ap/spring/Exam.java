@@ -62,7 +62,19 @@ public class Exam {
 	// x-coordinaten uit de lijst van points te berekenen
 	// 1 punt
 	public int sumOfX(List<Point> points) {
-		return 0;
+		List<Integer> xList = new ArrayList<>();
+		xList = points
+				.stream()
+				.map(p -> p.x)
+				.collect(Collectors.toList());
+
+		int sum = 0;
+		for (int i = 0; i < xList.size(); i++) {
+			sum += xList.get(i);
+		}
+
+		return sum;
+
 	}
 	
 	// Maak gebruik van lambdas en streams om een comma-separated
@@ -70,6 +82,8 @@ public class Exam {
 	// zijn aan twee
 	// 2 punten
 	public String getXOverTwo(List<Point> points) {
+
+		
 		return "";
 	}
 }
