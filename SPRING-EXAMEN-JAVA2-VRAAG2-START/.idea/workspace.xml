@@ -17,12 +17,10 @@
           <file leaf-file-name="Exam.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/java/edu/ap/spring/Exam.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="512">
-                  <caret line="74" column="8" lean-forward="true" selection-start-line="74" selection-start-column="8" selection-end-line="74" selection-end-column="8" />
+                <state relative-caret-position="1581">
+                  <caret line="93" column="46" lean-forward="true" selection-start-line="93" selection-start-column="46" selection-end-line="93" selection-end-column="46" />
                   <folding>
                     <element signature="imports" expanded="true" />
-                    <element signature="e#1680#1681#0" expanded="true" />
-                    <element signature="e#1697#1698#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -59,8 +57,8 @@
           <file leaf-file-name="SpringTest.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/test/java/edu/ap/spring/test/SpringTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="359">
-                  <caret line="52" column="38" lean-forward="true" selection-start-line="52" selection-start-column="38" selection-end-line="52" selection-end-column="38" />
+                <state relative-caret-position="146">
+                  <caret line="50" column="20" lean-forward="true" selection-start-line="50" selection-start-column="20" selection-end-line="50" selection-end-column="20" />
                 </state>
               </provider>
             </entry>
@@ -165,7 +163,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SpringTest.testsumOfX">
+  <component name="RunManager" selected="JUnit.SpringTest">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -331,9 +329,9 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SpringTest.testsumOfX" />
-        <item itemvalue="JUnit.SpringTest.testgetXOverTwo" />
         <item itemvalue="JUnit.SpringTest" />
+        <item itemvalue="JUnit.SpringTest.testgetXOverTwo" />
+        <item itemvalue="JUnit.SpringTest.testsumOfX" />
         <item itemvalue="JUnit.SpringTest.testcountLowercaseCharacters" />
         <item itemvalue="JUnit.SpringTest.testgetPrimes" />
       </list>
@@ -353,24 +351,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SpringTest_testgetPrimes - 2018.04.18 at 15h 26m 37s.xml">
-      <configuration name="SpringTest.testgetPrimes" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SpringTest_testgetPrimes - 2018.04.18 at 15h 27m 19s.xml">
-      <configuration name="SpringTest.testgetPrimes" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SpringTest_testgetPrimes - 2018.04.18 at 15h 27m 34s.xml">
-      <configuration name="SpringTest.testgetPrimes" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SpringTest_testgetPrimes - 2018.04.18 at 15h 28m 47s.xml">
-      <configuration name="SpringTest.testgetPrimes" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SpringTest_testgetPrimes - 2018.04.18 at 15h 29m 54s.xml">
-      <configuration name="SpringTest.testgetPrimes" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SpringTest_testgetPrimes - 2018.04.18 at 15h 30m 10s.xml">
-      <configuration name="SpringTest.testgetPrimes" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="SpringTest_testcountLowercaseCharacters - 2018.04.18 at 15h 33m 02s.xml">
       <configuration name="SpringTest.testcountLowercaseCharacters" configurationId="JUnit" />
     </history-entry>
@@ -381,6 +361,24 @@
       <configuration name="SpringTest.testcountLowercaseCharacters" configurationId="JUnit" />
     </history-entry>
     <history-entry file="SpringTest - 2018.04.18 at 15h 39m 03s.xml">
+      <configuration name="SpringTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringTest_testgetXOverTwo - 2018.04.18 at 15h 50m 54s.xml">
+      <configuration name="SpringTest.testgetXOverTwo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringTest_testsumOfX - 2018.04.18 at 15h 50m 56s.xml">
+      <configuration name="SpringTest.testsumOfX" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringTest_testgetXOverTwo - 2018.04.18 at 15h 58m 24s.xml">
+      <configuration name="SpringTest.testgetXOverTwo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringTest_testgetXOverTwo - 2018.04.18 at 15h 58m 48s.xml">
+      <configuration name="SpringTest.testgetXOverTwo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringTest_testgetXOverTwo - 2018.04.18 at 15h 59m 15s.xml">
+      <configuration name="SpringTest.testgetXOverTwo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringTest - 2018.04.18 at 15h 59m 26s.xml">
       <configuration name="SpringTest" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -396,7 +394,7 @@
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.19850187" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.18476903" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
@@ -454,23 +452,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/ap/spring/Exam.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/edu/ap/spring/test/SpringTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-          <folding>
-            <element signature="e#1448#1449#0" expanded="true" />
-            <element signature="e#1464#1465#0" expanded="true" />
-            <element signature="e#1680#1681#0" expanded="true" />
-            <element signature="e#1697#1698#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="146">
+          <caret line="50" column="20" lean-forward="true" selection-start-line="50" selection-start-column="20" selection-end-line="50" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/edu/ap/spring/test/SpringTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/ap/spring/Exam.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="52" column="38" lean-forward="true" selection-start-line="52" selection-start-column="38" selection-end-line="52" selection-end-column="38" />
+        <state relative-caret-position="1581">
+          <caret line="93" column="46" lean-forward="true" selection-start-line="93" selection-start-column="46" selection-end-line="93" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

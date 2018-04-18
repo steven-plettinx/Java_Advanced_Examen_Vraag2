@@ -82,8 +82,21 @@ public class Exam {
 	// zijn aan twee
 	// 2 punten
 	public String getXOverTwo(List<Point> points) {
+		List<Integer> xList = new ArrayList<>();
+		xList = points
+				.stream()
+				.filter(p -> p.x >= 2)
+				.map(p -> p.x)
+				.collect(Collectors.toList());
 
-		
-		return "";
+		String string = "";
+		for (int i = 0; i < xList.size(); i++) {
+			string += xList.get(i).toString();
+			if (i < (xList.size() - 1)) {
+				string += ",";
+			}
+		}
+		System.out.println(string);
+		return string;
 	}
 }
